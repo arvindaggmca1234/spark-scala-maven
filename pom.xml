@@ -10,8 +10,8 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <encoding>UTF-8</encoding>
-        <spark.version>3.0.1</spark.version>
-        <scala.tools.version>2.11</scala.tools.version>
+        <spark.version>3.1.2</spark.version>
+        <scala.tools.version>2.12</scala.tools.version>
     </properties>
 
     <dependencies>
